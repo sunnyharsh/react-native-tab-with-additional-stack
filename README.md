@@ -1,0 +1,1 @@
+# react-native-tab-with-additional-stack
